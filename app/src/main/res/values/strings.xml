@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">praktikum_1</string>
+    <string name="name">Furji One Piece</string>
+    <string name="Nomor">082237623111</string>
+    <string name="text">Select More</string>
+    <string name="Nama">Nama</string>
+    <string name="phone">Phone number</string>
+    <string name="address">Address</string>
+    <string name="isinama">Enter Your Name</string>
+    <string name="number">Enter Your Phone Number</string>
+    <string name="alamat">Enter Your Address</string>
+    <string name="button">Login</string>
+</resources>
